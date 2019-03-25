@@ -4,14 +4,7 @@ import turtle
 import random
 import time
 
-''' THIS WAS A JAVA CODE THAT WE HAD ONCE TREATED THAT I CONVERTED TO PYTHON '''
-
-''' Using The Mathematical formula for the Sierpinski Triangle and the coordinates
- of the [x,y] plane , the concept of self similarity can be applied with combinations
-  some built in turtle functions to construct the Sierpinski Triangle fractal.'''
-
-# Getting the main structure for the main Large triangle using coordinates
-
+ 
 def triangle(points,color,sakwe):
     sakwe.fillcolor(color)
     sakwe.up()
